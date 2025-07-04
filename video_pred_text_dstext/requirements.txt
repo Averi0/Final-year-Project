@@ -1,0 +1,18 @@
+ Python Project Dependencies:
+
+tensorflow
+watchdog
+streamlit
+pillow
+numpy
+requests
+pandas
+seaborn
+scikit_learn
+matplotlib
+plotly
+Pillow
+scikit-learn
+xgboost
+openpyxl
+datetime

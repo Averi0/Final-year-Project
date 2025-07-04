@@ -1,0 +1,22 @@
+[
+    {
+        "video": "video1.mp4",
+        "caption": "a cat is playing with a toy"
+    },
+    {
+        "video": "video2.mp4",
+        "caption": "a person is walking in the park"
+    },
+    {
+        "video": "video3.mp4",
+        "caption": "children are playing football"
+    },
+    {
+        "video": "video4.mp4",
+        "caption": "a man is cooking in the kitchen"
+    },
+    {
+        "video": "video5.mp4",
+        "caption": "a woman is driving a car"
+    }
+]
